@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/taxibooklatest/ticketbooking/static/css/main.978a4b01.css",
+    "main.js": "/taxibooklatest/ticketbooking/static/js/main.aa86f96e.js",
+    "static/js/988.4952390e.chunk.js": "/taxibooklatest/ticketbooking/static/js/988.4952390e.chunk.js",
+    "static/media/image-gallery-milkbottles.jpg": "/taxibooklatest/ticketbooking/static/media/image-gallery-milkbottles.df1d9d8460e873924250.jpg",
+    "static/media/image-gallery-sugarcubes.jpg": "/taxibooklatest/ticketbooking/static/media/image-gallery-sugarcubes.09b72f4fbfbf08579f9d.jpg",
+    "static/media/image-gallery-orange.jpg": "/taxibooklatest/ticketbooking/static/media/image-gallery-orange.49f4212bc650862672a7.jpg",
+    "static/media/image-gallery-cone.jpg": "/taxibooklatest/ticketbooking/static/media/image-gallery-cone.461ff4214c3ac822dfff.jpg",
+    "index.html": "/taxibooklatest/ticketbooking/index.html",
+    "main.978a4b01.css.map": "/taxibooklatest/ticketbooking/static/css/main.978a4b01.css.map",
+    "main.aa86f96e.js.map": "/taxibooklatest/ticketbooking/static/js/main.aa86f96e.js.map",
+    "988.4952390e.chunk.js.map": "/taxibooklatest/ticketbooking/static/js/988.4952390e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978a4b01.css",
+    "static/js/main.aa86f96e.js"
+  ]
+}
